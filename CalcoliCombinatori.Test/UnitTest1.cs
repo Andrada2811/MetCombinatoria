@@ -20,7 +20,7 @@ namespace CalcoliCombinatori.Test
 
 
         //Metodo per testare il fattoriale del N1
-        public void TestMethod1(long N1, long N2)
+        public void TestMethod1(long N1, long N2 )
         {
             long Risultato = EquazioniLibrary.CalcoliCombinaori.Fattoriale(N1);
 
