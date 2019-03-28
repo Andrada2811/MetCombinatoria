@@ -18,7 +18,7 @@ namespace EquazioniLibrary
 
             for (long i=1; i<=Numero; i++)
             {
-                Risultato = Risultato * i;
+                Risultato = Risultato * i ;
 
             }
 
