@@ -24,7 +24,7 @@ namespace CalcoliCombinatori.Test
         {
             long Risultato = EquazioniLibrary.CalcoliCombinaori.Fattoriale(N1);
 
-            Assert.AreEqual(Risultato,N2) ;
+            Assert.AreEqual(Risultato,N2);
         }
 
         //Una cattiva scelta del tipo di dato può causare un overflow, dovuto al fatto che il computer non è in 
